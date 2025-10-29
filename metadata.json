@@ -1,0 +1,5 @@
+{
+  "name": "Student Study Hub",
+  "description": "An application for students to upload and review study materials generated from their projects. Load a project JSON file to view subjects and details.",
+  "requestFramePermissions": []
+}
